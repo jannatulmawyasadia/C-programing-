@@ -1,2 +1,2 @@
 # C-programing-
-This depository contains a array multiplication c program.
+This repository contains a array multiplication c program.
