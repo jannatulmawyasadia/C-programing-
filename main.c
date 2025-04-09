@@ -109,7 +109,7 @@ int main() {
                 break;
 
             case 6: 
-                printf("Exiting the program. Goodbye!\n");
+                printf("Exiting the program !\n");
                 return 0;
 
             default:
