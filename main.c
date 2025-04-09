@@ -20,7 +20,7 @@ int main() {
 
     while (1) {
     
-        printf("\n------ MENU ------\n");
+        printf("\n------menu ------\n");
         printf("1. Insert a number (at end)\n");
         printf("2. Update a number (by index)\n");
         printf("3. Delete a number (by index)\n");
