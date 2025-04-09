@@ -16,7 +16,7 @@ int main() {
     int choice, value, old_value, new_value, i, j, found;
 
     while (1) {
-        printf("\n------ MENU ------\n");
+        printf("\n------ menu ------\n");
         printf("1. Insert a number\n");
         printf("2. Update a number (by value)\n");
         printf("3. Delete a number (by value)\n");
